@@ -31,7 +31,7 @@ What is the "Wall Drawing Robot" and What is it designed for?
 #### Acknowledgements:
   - [Instructive Video](https://youtu.be/zdYvc9GKY2E?si=kTlLsZ3SoO6pdjJS)
 
-#### Team Work:
+#### Working Team:
  - Alaa Ayman Arab
  - Amira Gamal Helal
  - Hanan Mahmoud Abdelrahman
